@@ -1,0 +1,105 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "src": "./c256.png",
+      "title": "C++",
+      "description": "Intermediate"
+    },
+    {
+      "id": 2,
+      "src": "./python.png",
+      "title": "Python",
+      "description": "Proficient"
+    },
+    {
+      "id": 3,
+      "src": "./coding.png",
+      "title": "Machine Learning",
+      "description": "Intermediate"
+    },
+    {
+      "id": 4,
+      "src": "./git.png",
+      "title": "Git",
+      "description": "Proficient"
+    },
+    {
+      "id": 5,
+      "src": "./structure.png",
+      "title": "React",
+      "description": "Learning"
+    }
+
+  ],
+
+  "portfolio": [
+    {
+      "id": 1,
+      "src": "./logo192.png",
+      "title": "Pornhub Clone",
+      "description": "god help this website"
+    },
+    {
+      "id": 2,
+      "src": "./logo192.png",
+      "title": "Github Clone",
+      "description": "god help this website",
+      "link": "View In Github"
+    },
+    {
+      "id": 3,
+      "src": "./logo192.png",
+      "title": "Shresins.com",
+      "description": "god help this website",
+      "link": "View In Github"
+    },
+    {
+      "id": 4,
+      "src": "./logo192.png",
+      "title": "Anand and Anmol Marraige Website",
+      "description": "god help this website",
+      "link": "View In Github"
+    },
+    {
+      "id": 5,
+      "src": "./logo192.png",
+      "title": "Anand and Anmol Marraige Website",
+      "description": "god help this website",
+      "link": "View In Github"
+    },
+    {
+      "id": 6,
+      "src": "./logo192.png",
+      "title": "Anand and Anmol Marraige Website",
+      "description": "god help this website",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./logo192.png",
+      "description": "Absolute Chad",
+      "author_name": "Johnny Sins",
+      "author_designation": "Astronaut"
+    },
+    {
+      "id": "2",
+      "count": "3.5",
+      "src": "./logo192.png",
+      "description": "Gawk Gawk Gawk",
+      "author_name": "Shreshtha Sinha",
+      "author_designation": "Porn Comedian"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./logo192.png",
+      "description": "I felt Horny Looking at this site",
+      "author_name": "Shreyas Srinivasan",
+      "author_designation": "Professional Fatass"
+    }
+  ]
+}
