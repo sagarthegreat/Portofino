@@ -4,7 +4,7 @@ export default function AboutMe(){
         <section className="about--section--bg">
         <section id = "AboutMe" className="about--section">
             <div className="about--section--img">
-                <img src="./logo512.png" alt="hsec"/>
+                <img src="./msu.png" alt="hsec"/>
             </div>
             <div className ="hero--section--content--box--about--section--box">
                 <div className="hero--section--content">
